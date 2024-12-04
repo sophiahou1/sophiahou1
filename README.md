@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me!!
+
+First-generation Asian American student pursuing a Bachelor’s of Science in Computer Science with a concentration in Cybersecurity, double minor in Critical Intelligence Studies and Mathematics at Rutgers University-New Brunswick. Looking for entry-level internships and roles to gain experience in the computer science industry. Open to new experiences, cyber security, software development, and IT.
+Proficient in Java, Python, C, and Microsoft Office. Enjoys working independently or with others to achieve a collective goal. Soft skills include being hardworking, motivated, organized, and a quick learner.
